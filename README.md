@@ -1,4 +1,4 @@
-[LinkedIn](https://linkedin.com/in/salman029) | [Email](mailto:salman029sheikh@gmail.com) | [GitHub](https://github.com/mohdsalman029)
+[LinkedIn](https://linkedin.com/in/mohdsalman029) | [Email](mailto:salman029sheikh@gmail.com) | [GitHub](https://github.com/mohdsalman029)
 
 I’m Mohd Salman, a BCA student at Galgotias University (Batch 2022-2025), currently learning and building projects with the MERN Stack to grow as a full-stack web developer.
 
