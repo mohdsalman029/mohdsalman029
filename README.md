@@ -2,14 +2,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&color=0077B5)](https://linkedin.com/in/salman029) 
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&color=D14836)](mailto:salman029sheikh@gmail.com) 
 
-# 💻 Tech Stack:
-# 💻 Tech Stack
+# Tech Stack:
 
 **Languages:** C++, C, JavaScript, HTML5  
 
-**Styling / Design:** CSS3, Figma, Canva  
+**Styling :** CSS, Figma, Canva  
 
-**Frameworks / Libraries:** Express.js, React, Next.js  
+**Frameworks** Express.js, React, Next.js  
 
 **Backend & Databases:** Node.js, MySQL, MongoDB  
 
