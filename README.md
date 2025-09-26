@@ -1,21 +1,27 @@
 # Socials:
 [LinkedIn](https://linkedin.com/in/salman029) | [Email](mailto:salman029sheikh@gmail.com) | [GitHub](https://github.com/mohdsalman029)
 
+# About : 
+I’m Mohd Salman, a BCA student at Galgotias University (Batch 2022-2025), currently learning and building projects with the MERN Stack to grow as a full-stack web developer.
 
-# Tech Stack:
+# Skills:
+**Languages :** 
+C++, C, JavaScript, HTML
 
-**Languages:** C++, C, JavaScript, HTML5  
+**Styling :** 
+CSS 
 
-**Styling :** CSS, Figma, Canva  
+**Frameworks :** 
+Express.js, React, Next.js  
 
-**Frameworks** Express.js, React, Next.js  
+**Backend & Databases :** 
+Node.js, MySQL, MongoDB  
 
-**Backend & Databases:** Node.js, MySQL, MongoDB  
+**Version Control & Tools :** 
+Git, GitHub  
 
-**Version Control & Tools:** Git, GitHub, GitHub Actions  
 
-
-### 🔝 Top Contributed Repo
+###  Repository
 ![](https://github-contributor-stats.vercel.app/api?username=mohdsalman029&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
