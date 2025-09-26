@@ -1,6 +1,6 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&color=0077B5)](https://linkedin.com/in/salman029) 
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&color=D14836)](mailto:salman029sheikh@gmail.com) 
+# Socials:
+[LinkedIn](https://linkedin.com/in/salman029) | [Email](mailto:salman029sheikh@gmail.com) | [GitHub](https://github.com/mohdsalman029)
+
 
 # Tech Stack:
 
