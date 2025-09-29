@@ -4,13 +4,13 @@ I’m Mohd Salman, a BCA student at Galgotias University (Batch 2022-2025), curr
 
 
 **Languages :** 
-C, C++, JavaScript, HTML
+JavaScript, HTML, REACT and C & C++
 
 **Styling :** 
-CSS 
+CSS (.css & .module.css)
 
-**Frameworks :** 
-Express.js, React, Next.js 
+**Tech Stack :** 
+MERN (MySQL, Express, REACT, Node.js)
 
 **Backend & Databases :** 
 Node.js, MySQL, MongoDB  
